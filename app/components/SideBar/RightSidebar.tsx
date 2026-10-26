@@ -7,7 +7,7 @@ export const RightSidebar: React.FC = () => {
 
       <a href="#" className="nyt-picks-item">
         <img
-          src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2FDiscapacidad-3-e1785531512282-660x305.jpeg&w=1920&q=75"
+          src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2FDiscapacidad-3-e1785531512282.jpeg&w=640&q=65"
           alt="Tribuna Disca"
           className="nyt-picks-img"
         />
@@ -19,7 +19,7 @@ export const RightSidebar: React.FC = () => {
 
       <a href="#" className="nyt-picks-item">
         <img
-          src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2Fevet-327x321.png&w=1920&q=75"
+          src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2Fevet-e1785529692884.png&w=640&q=65"
           alt="Facultad Veterinarias UBA"
           className="nyt-picks-img"
         />
@@ -31,7 +31,7 @@ export const RightSidebar: React.FC = () => {
 
       <a href="#" className="nyt-picks-item">
         <img
-          src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2F1000085252-553x321.jpg&w=1920&q=75"
+          src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2F1000085252.jpg&w=640&q=65"
           alt="Secundarios marcha"
           className="nyt-picks-img"
         />

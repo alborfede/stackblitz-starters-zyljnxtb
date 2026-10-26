@@ -292,7 +292,7 @@ export default function Page() {
             <div className="related-notes-section">
               <a href="#" className="related-card">
                 <img
-                  src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2Fruenion-660x318.jpg&w=1920&q=75"
+                  src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2Fruenion.jpg&w=640&q=65"
                   alt="Georgieva, Milei y el FMI"
                   className="related-card-img"
                 />
@@ -316,7 +316,7 @@ export default function Page() {
                     <span className="nyt-read-time">ACTUALIDAD</span>
                   </div>
                   <img
-                    src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2Fmileii-libra-482x321.jpg&w=1920&q=75"
+                    src="https://prensaobrera.com/_next/image?url=https%3A%2F%2Fadmin.prensaobrera.com%2Fwp-content%2Fuploads%2Fmileii-libra.jpg&w=640&q=65"
                     alt="Libra-gate"
                     className="nyt-read-img"
                   />
