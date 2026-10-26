@@ -222,7 +222,7 @@ export default function Page() {
               Sin sonrojarse, la titular del FMI invocó a su propio país,
               Bulgaria, como un ejemplo a seguir. Obviamente, Kristalina evitó
               mencionar que la tutela del FMI del proceso de la restauración
-              capitalista en Bulgaria a principios de los '90 terminó -entre
+              capitalista en Bulgaria a principios de los &apos;90 terminó -entre
               1996 y 1997- en una crisis bancaria, una fuerte devaluación de la
               moneda búlgara y una hiperinflación.
             </p>
